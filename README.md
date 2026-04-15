@@ -8,17 +8,12 @@ Drop your screenshots into `docs/images/` and then uncomment or replace the samp
 
 Suggested filenames:
 
-- ![Home Screen](.\docs\images\UI-1.png")
-- ![Generate Output](.\docs\images\UI-2.png")
-- 
+- ![Home Screen](docs/images/UI-1.png")
+- ![Generate Output](docs/images/UI-2.png")
+-
 
-Example markdown to enable after adding images:
 
-```md
-![Home Screen](docs/images/home.png)
-![Generated Result](docs/images/result.png)
-![Mobile View](docs/images/mobile.png)
-```
+
 
 ## Highlights
 
