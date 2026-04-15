@@ -1,0 +1,21 @@
+[project]
+name = "text-speech"
+version = "0.1.0"
+description = "Hardware-lite Streamlit app for emotion-aware text to speech"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.13.0",
+    "alt-profanity-check>=1.8.0",
+    "blinker>=1.9.0",
+    "gtts>=2.5.4",
+    "numpy>=2.4.4",
+    "pydub>=0.25.1",
+    "python-dotenv>=1.1.1",
+    "safetensors>=0.7.0",
+    "sentencepiece>=0.2.1",
+    "streamlit>=1.56.0",
+    "torch>=2.11.0",
+    "torchvision>=0.26.0",
+    "transformers>=4.51.3",
+]

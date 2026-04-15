@@ -1,0 +1,11 @@
+streamlit
+torch
+transformers
+sentencepiece
+safetensors
+numpy
+accelerate
+python-dotenv
+gTTS
+pydub
+alt-profanity-check
